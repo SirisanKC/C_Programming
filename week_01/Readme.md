@@ -57,10 +57,3 @@ String without newline character: I don't like newline characters.NEWLINE_CHAR
 1. Clone the repository.  
 2. Compile each program using a C compiler (e.g., `gcc`).  
 3. Run the compiled executables to test the functionality.  
-
-## Submission  
-Submit the solutions to **CodeGrade** by the deadline: **2025-01-20 23:59**.  
-
-## Notes  
-- Ensure your code follows the specifications to pass the CodeGrade tests.  
-- For any issues, contact the course staff via the Moodle "Ask from everybody" channel.
