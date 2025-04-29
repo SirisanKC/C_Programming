@@ -127,7 +127,6 @@ gcc *.c -o chapter11 -lm
 - Use `floor()`, `ceil()`, `isalpha()`, `time.h`, `qsort()` etc., as specified.
 - If you run into problems, ask in the **"Ask from everybody"** channel on Moodle.
 
----
 
 ## Contributing  
 Feel free to fork this repository, improve the code, and submit pull requests.  
